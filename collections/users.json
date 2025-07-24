@@ -1,0 +1,106 @@
+[
+  {
+    "_id": "u001",
+    "name": "Asha Menon",
+    "email": "asha@example.com",
+    "password": "hashed_asha",
+    "role": "cook",
+    "profile": {
+      "photo": "asha.jpg",
+      "bio": "South Indian vegetarian meals expert",
+      "cuisines": ["South Indian", "Healthy"],
+      "certified": true
+    },
+    "address": { "city": "Chennai", "pincode": "600001" }
+  },
+  {
+    "_id": "u002",
+    "name": "Rahul Verma",
+    "email": "rahul@example.com",
+    "password": "hashed_rahul",
+    "role": "customer",
+    "address": { "city": "Mumbai", "pincode": "400001" }
+  },
+  {
+    "_id": "u003",
+    "name": "Priya Nair",
+    "email": "priya@example.com",
+    "password": "hashed_priya",
+    "role": "customer",
+    "address": { "city": "Delhi", "pincode": "110001" }
+  },
+  {
+    "_id": "u004",
+    "name": "Ramesh Kumar",
+    "email": "ramesh@example.com",
+    "password": "hashed_ramesh",
+    "role": "cook",
+    "profile": {
+      "photo": "ramesh.jpg",
+      "bio": "North Indian dishes with authentic taste",
+      "cuisines": ["North Indian", "Punjabi"],
+      "certified": false
+    },
+    "address": { "city": "Hyderabad", "pincode": "500001" }
+  },
+  {
+    "_id": "u005",
+    "name": "Sneha Patil",
+    "email": "sneha@example.com",
+    "password": "hashed_sneha",
+    "role": "customer",
+    "address": { "city": "Pune", "pincode": "411001" }
+  },
+  {
+    "_id": "u006",
+    "name": "Farhan Shaikh",
+    "email": "farhan@example.com",
+    "password": "hashed_farhan",
+    "role": "customer",
+    "address": { "city": "Kolkata", "pincode": "700001" }
+  },
+  {
+    "_id": "u007",
+    "name": "Lakshmi Devi",
+    "email": "lakshmi@example.com",
+    "password": "hashed_lakshmi",
+    "role": "cook",
+    "profile": {
+      "photo": "lakshmi.jpg",
+      "bio": "Homemade vegan meals specialist",
+      "cuisines": ["Vegan", "Gluten-Free"],
+      "certified": true
+    },
+    "address": { "city": "Bangalore", "pincode": "560001" }
+  },
+  {
+    "_id": "u008",
+    "name": "Arjun Das",
+    "email": "arjun@example.com",
+    "password": "hashed_arjun",
+    "role": "customer",
+    "address": { "city": "Chennai", "pincode": "600002" }
+  },
+  {
+    "_id": "u009",
+    "name": "Neha Sinha",
+    "email": "neha@example.com",
+    "password": "hashed_neha",
+    "role": "customer",
+    "address": { "city": "Delhi", "pincode": "110002" }
+  },
+  {
+    "_id": "u010",
+    "name": "Imran Khan",
+    "email": "imran@example.com",
+    "password": "hashed_imran",
+    "role": "cook",
+    "profile": {
+      "photo": "imran.jpg",
+      "bio": "Fusion cuisine expert, event caterer",
+      "cuisines": ["Indo-Chinese", "Fusion"],
+      "certified": false
+    },
+    "address": { "city": "Ahmedabad", "pincode": "380001" }
+  }
+]

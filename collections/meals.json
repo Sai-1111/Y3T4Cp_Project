@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "m001",
+    "cookId": "u001",
+    "name": "Idli Sambhar",
+    "price": 80,
+    "type": "Breakfast",
+    "cuisine": "South Indian",
+    "diet": "Vegetarian",
+    "ingredients": ["rice", "lentils", "sambhar"],
+    "available": true
+  },
+  {
+    "_id": "m002",
+    "cookId": "u001",
+    "name": "Masala Dosa",
+    "price": 90,
+    "type": "Breakfast",
+    "cuisine": "South Indian",
+    "diet": "Vegetarian",
+    "ingredients": ["rice", "potato", "chutney"],
+    "available": true
+  },
+  {
+    "_id": "m003",
+    "cookId": "u001",
+    "name": "Keto Paneer Bowl",
+    "price": 110,
+    "type": "Lunch",
+    "cuisine": "Fusion",
+    "diet": "Keto",
+    "ingredients": ["paneer", "bell pepper", "ghee"],
+    "available": true
+  },
+  {
+    "_id": "m004",
+    "cookId": "u002",
+    "name": "Butter Chicken",
+    "price": 150,
+    "type": "Lunch",
+    "cuisine": "North Indian",
+    "diet": "Non-Vegetarian",
+    "ingredients": ["chicken", "butter", "cream"],
+    "available": true
+  },
+  {
+    "_id": "m005",
+    "cookId": "u003",
+    "name": "Veg Pulao",
+    "price": 120,
+    "type": "Lunch",
+    "cuisine": "North Indian",
+    "diet": "Vegetarian",
+    "ingredients": ["rice", "carrot", "peas", "beans"],
+    "available": true
+  },
+  {
+    "_id": "m006",
+    "cookId": "u003",
+    "name": "Chole Bhature",
+    "price": 120,
+    "type": "Lunch",
+    "cuisine": "Punjabi",
+    "diet": "Vegetarian",
+    "ingredients": ["chickpeas", "flour", "spices"],
+    "available": true
+  },
+  {
+    "_id": "m007",
+    "cookId": "u004",
+    "name": "Egg Fried Rice",
+    "price": 100,
+    "type": "Dinner",
+    "cuisine": "Indo-Chinese",
+    "diet": "Non-Vegetarian",
+    "ingredients": ["rice", "egg", "soy sauce"],
+    "available": true
+  },
+  {
+    "_id": "m008",
+    "cookId": "u004",
+    "name": "Chicken Manchurian",
+    "price": 180,
+    "type": "Dinner",
+    "cuisine": "Indo-Chinese",
+    "diet": "Non-Vegetarian",
+    "ingredients": ["chicken", "corn flour", "garlic"],
+    "available": true
+  },
+  {
+    "_id": "m009",
+    "cookId": "u005",
+    "name": "Vegan Salad Bowl",
+    "price": 130,
+    "type": "Dinner",
+    "cuisine": "Continental",
+    "diet": "Vegan",
+    "ingredients": ["lettuce", "beans", "tomato", "avocado"],
+    "available": true
+  },
+  {
+    "_id": "m010",
+    "cookId": "u002",
+    "name": "Fish Curry",
+    "price": 160,
+    "type": "Lunch",
+    "cuisine": "Kerala",
+    "diet": "Non-Vegetarian",
+    "ingredients": ["fish", "tamarind", "coconut"],
+    "available": false
+  }
+]

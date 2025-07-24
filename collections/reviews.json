@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "r001",
+    "mealId": "m001",
+    "userId": "u002",
+    "rating": 5,
+    "comment": "Delicious and soft idlis. Sambhar was perfectly spiced.",
+    "date": "2025-07-23T09:30:00Z"
+  },
+  {
+    "_id": "r002",
+    "mealId": "m002",
+    "userId": "u003",
+    "rating": 4,
+    "comment": "Masala dosa was crispy, chutney could be improved.",
+    "date": "2025-07-22T13:15:00Z"
+  },
+  {
+    "_id": "r003",
+    "mealId": "m004",
+    "userId": "u001",
+    "rating": 5,
+    "comment": "Rich butter chicken, full of flavor. Will reorder.",
+    "date": "2025-07-21T18:00:00Z"
+  },
+  {
+    "_id": "r004",
+    "mealId": "m005",
+    "userId": "u004",
+    "rating": 3,
+    "comment": "Veg Pulao was okay, but a bit dry.",
+    "date": "2025-07-20T12:00:00Z"
+  },
+  {
+    "_id": "r005",
+    "mealId": "m006",
+    "userId": "u005",
+    "rating": 4,
+    "comment": "Tasty Chole, but bhature were a little oily.",
+    "date": "2025-07-20T15:00:00Z"
+  },
+  {
+    "_id": "r006",
+    "mealId": "m003",
+    "userId": "u001",
+    "rating": 5,
+    "comment": "Perfect Keto option, fresh and healthy.",
+    "date": "2025-07-19T14:45:00Z"
+  },
+  {
+    "_id": "r007",
+    "mealId": "m007",
+    "userId": "u006",
+    "rating": 4,
+    "comment": "Egg fried rice was flavorful and well-cooked.",
+    "date": "2025-07-18T19:00:00Z"
+  },
+  {
+    "_id": "r008",
+    "mealId": "m008",
+    "userId": "u002",
+    "rating": 5,
+    "comment": "Amazing chicken manchurian! Cook nailed it.",
+    "date": "2025-07-18T21:00:00Z"
+  },
+  {
+    "_id": "r009",
+    "mealId": "m009",
+    "userId": "u003",
+    "rating": 4,
+    "comment": "Vegan bowl was refreshing. Great for dinner.",
+    "date": "2025-07-17T20:00:00Z"
+  },
+  {
+    "_id": "r010",
+    "mealId": "m010",
+    "userId": "u005",
+    "rating": 3,
+    "comment": "Fish curry had good flavor, but slightly salty.",
+    "date": "2025-07-16T12:00:00Z"
+  }
+]
